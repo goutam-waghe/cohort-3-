@@ -1,0 +1,14 @@
+[
+ {
+  "task": "go to gym",
+  "done": false
+ },
+ {
+  "task": "work on project",
+  "done": true
+ },
+ {
+  "task": "go for travel",
+  "done": false
+ }
+]
